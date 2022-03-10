@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Alexandre Tytgat
+- 👋 Hi, I’m Alexandre
 - 👀 I’m interested in Machine Learning
 - 🌱 I’m currently learning about Deep Learning and computer vision
 - 📫 How to reach me by email at alextytgat@gmail.com or on Linkedin www.linkedin.com/in/alexandre-tytgat/
