@@ -1,8 +1,12 @@
-- 👋 Hi, I’m Alexandre
-- 👀 I’m looking for a first work experience as a machine learning engineer or data scientist. 
-- 🔨 I'm into building ML models for real world applications
-- 🌱 I’m currently learning about computer vision 
-- 📫 How to reach me by email at alextytgat@gmail.com or on Linkedin www.linkedin.com/in/alexandre-tytgat/
+Hello, my name is Alexandre !
+
+I'm currently looking for an entry-level role as a machine learning engineer or data scientist, so please reach out if you have an opening at your company and believe I might be a good fit. You can find my CV in this repo.
+
+I live in Belgium but am definetly willing to relocate.
+
+Email: alextytgat@gmail.com 
+Phone: + 32 497 10 80 48
+Linkedin:  www.linkedin.com/in/alexandre-tytgat/
 
 
 <!---
