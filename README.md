@@ -4,8 +4,8 @@ I'm currently looking for an entry-level role as a machine learning engineer or 
 
 I live in Belgium but am definetly willing to relocate.
 
-Email: alextytgat@gmail.com 
-Phone: + 32 497 10 80 48
+Email: alextytgat@gmail.com;
+Phone: + 32 497 10 80 48;
 Linkedin:  www.linkedin.com/in/alexandre-tytgat/
 
 
