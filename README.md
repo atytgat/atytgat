@@ -1,6 +1,6 @@
 Hello, my name is Alexandre !
 
-I'm currently looking for an entry-level role as a machine learning engineer or data scientist, so please reach out if you have an opening at your company and believe I might be a good fit. You can find my CV in this repo.
+I'm currently looking for an entry-level role as a machine learning engineer or data scientist, so please reach out if you have an opening at your company and believe I might be a good fit. You can find my CV in this repo here : https://github.com/atytgat/atytgat/blob/main/Tytgat%20Alexandre%20CV.pdf
 
 I live in Belgium but am definetly willing to relocate.
 
