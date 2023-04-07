@@ -1,6 +1,3 @@
-Hello, my name is Alexandre !
-
-I'm interested in physics, mathematics, AI, ethics, and the history of science. Currently, I'm learning about computer vision and positive psychology through online courses. 
 
 
 <!---
